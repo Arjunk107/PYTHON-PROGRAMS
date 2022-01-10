@@ -1,6 +1,3 @@
-#Find gcd of 2 numbers.
-
-
 num1 = int(input("Enter 1st number: "))
 num2 = int(input("Enter 2nd number: "))
 i = 1
@@ -10,6 +7,3 @@ while(i <= num1 and i <= num2):
   i = i + 1
 print("GCD is", gcd)
 
-#method2
-# import math
-# print(math.gcd(x,y))
