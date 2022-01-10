@@ -1,6 +1,3 @@
-
-# Display future leap years from current year to a final year entered by user.
-
 current = int(input("enter current year:"))
 last = int(input("enter last year:"))
 for i in range(current, last + 1):
